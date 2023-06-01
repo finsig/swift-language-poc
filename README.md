@@ -3,4 +3,5 @@ Apple provides <a href="https://github.com/apple/swift-syntax">SwiftSyntax libra
 
 This proof of concept is based on the <a href="https://docs.swift.org/swift-book/documentation/the-swift-programming-language/aboutthelanguagereference">Swift Language Reference</a> and produces a source accurate String-based representation of the language. If needed, the output can be fed into SwiftSyntax for the purpose of more comprehensive parsing, inspecting, generating, and transforming of Swift source code.
 
-**Disclaimer** This is proof of concept code used to think about high level solution design. It may contain incomplete thoughts. The code should not be used as is.
+
+:warning: This is proof of concept code used to think about high level solution design. It may contain incomplete thoughts. The code should not be used as is.
